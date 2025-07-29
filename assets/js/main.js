@@ -993,3 +993,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   arrow.textContent = isVisible ? "▼" : "▶";
 }
 
+
+
+
+
